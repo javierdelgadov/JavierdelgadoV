@@ -1,0 +1,7 @@
+{
+  "name": "Asistencia Julia Restrepo",
+  "description": "Sistema de gestión académica con sincronización a Drive y lectura de listas por IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
